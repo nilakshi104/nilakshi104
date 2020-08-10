@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 <!--
 **nilakshi104/nilakshi104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* I am Nilakshi Rekhawar, a third-year undergraduate student pursuing Bachelor of Technology in Electronics And Communication Engineering from Visvesvaraya National Institute of Technology(VNIT),Nagpur.
+
+* I am passionate about Exploring various fields in Robotics particularly **Deep Learning** and computer vision.
+
+* I have worked on various Deep Learning and Computer vision based Projects.
+
+* You can connect with me through [my email](rekhawarnilakshi@gmail.com) or [Linkedin](https://github.com/nilakshi104)

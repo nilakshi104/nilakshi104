@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 * I am Nilakshi Rekhawar, a third-year undergraduate student pursuing Bachelor of Technology in Electronics And Communication Engineering from Visvesvaraya National Institute of Technology(VNIT),Nagpur.
 
-* I am passionate about Exploring various fields in Robotics particularly **Deep Learning** and computer vision.
+* I am passionate about Exploring various fields in Robotics particularly **Deep Learning and Natural Language Processing**.
 
-* I have worked on various Deep Learning and Computer vision based Projects.
+* I have worked on various Deep Learning, Natural Language Processing and Computer vision based Projects.
 
 * You can connect with me through [my email](rekhawarnilakshi@gmail.com) or [Linkedin](https://www.linkedin.com/in/nilakshi-rekhawar/)

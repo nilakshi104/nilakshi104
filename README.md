@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 * I have worked on various Deep Learning, Natural Language Processing and Computer vision based Projects.
 
-* You can connect with me through my email : [rekhawarnilakshi@gmail.com](rekhawarnilakshi@gmail.com) or [Linkedin](https://www.linkedin.com/in/nilakshi-rekhawar/)
+* You can connect with me through my email : [rekhawarnilakshi@gmail.com](mailto:rekhawarnilakshi@gmail.com) or [Linkedin](https://www.linkedin.com/in/nilakshi-rekhawar/)

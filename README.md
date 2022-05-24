@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* I am Nilakshi Rekhawar, a third-year undergraduate student pursuing Bachelor of Technology in Electronics And Communication Engineering from Visvesvaraya National Institute of Technology(VNIT),Nagpur.
+* I am Nilakshi Rekhawar, a fourth-year undergraduate student pursuing Bachelor of Technology in Electronics And Communication Engineering from Visvesvaraya National Institute of Technology(VNIT),Nagpur.
 
 * I am passionate about Exploring various fields in Robotics particularly **Deep Learning and Natural Language Processing**.
 

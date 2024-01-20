@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 * I am Nilakshi Rekhawar, graduate student of Visvesvaraya National Institute of Technology(VNIT),Nagpur. Currently working on azure cloud @JP Morgan.
 
-* I am passionate about Exploring various fields in Robotics particularly **Deep Learning and Natural Language Processing**.
-
 * I have worked on various Deep Learning, Natural Language Processing and Computer vision based Projects.
 
 * You can connect with me through my email : [rekhawarnilakshi@gmail.com](mailto:rekhawarnilakshi@gmail.com) or [Linkedin](https://www.linkedin.com/in/nilakshi-rekhawar/)

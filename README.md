@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* I am Nilakshi Rekhawar, graduate student of Visvesvaraya National Institute of Technology(VNIT),Nagpur. Currently working on azure cloud @JP Morgan.
+* I am Nilakshi Rekhawar, graduate student of Visvesvaraya National Institute of Technology(VNIT),Nagpur. Currently working @JP Morgan Chase & Co.
 
 * I have worked on various Deep Learning, Natural Language Processing and Computer vision based Projects.
 
